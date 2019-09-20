@@ -1,0 +1,11 @@
+cadena = "Planeación Financiera"
+
+cadena1 = 'Planeación Financiera a las 19 horas'
+
+print(cadena)
+print(type(cadena))
+
+print(cadena1)
+print(type(cadena1))
+
+print('\t\t\tHola "a" \n TODOS')
